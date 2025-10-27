@@ -116,7 +116,7 @@ En la figura 1 se muestra el porcentaje de países de la muestra según su nivel
 
 **Figura 1.** Porcentaje de Países según el PIB _per cápita_
 
-![Distribución de países por nivel de PIB](images/TartaPIBGlobal.png)
+![](images/TartaPIBGlobal.png)
 
 En las figuras 2, 3 y 4 se muestran los histogramas y diagramas de caja (_boxplot)_ de la variable Emisiones de CO₂, en el caso de los histogramas, agrupada en cuatro intervalos. En los diagramas aparecen tanto la mediana (línea verde) como la media (línea azul).
 
@@ -185,3 +185,4 @@ En conjunto, los datos revelan que:
 - International Monetary Fund. (2025, Abril). _World Economic Outlook (WEO) Database - Changes to the Database_. [https://www.imf.org/en/Publications/WEO/weo-database/Changes](https://www.imf.org/en/Publications/WEO/weo-database/Changes) [IMF](https://www.imf.org/en/Publications/WEO/weo-database/Changes)
 - Banco Mundial. (s. f.). _PIB per cápita (constantes, PPA) <https://datos.bancomundial.org/indicador/NY.GDP.PCAP.CN>
 
+![](images/UniversidadAlcala.png)
