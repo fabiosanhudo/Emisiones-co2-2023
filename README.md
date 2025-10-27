@@ -29,8 +29,8 @@ install.packages(c("ggplot2", "dplyr", "e1071", "rmarkdown"))
 
 ## 👩‍🔬 Autoría
 
-Autor: Fábio da Silva Sanhudo
-Fecha: Octubre 2025
-Curso / Universidad: GISI / Escuela Superior Técnica - Universidad de Alcalá de Henares
+Autor: Fábio da Silva Sanhudo  
+Fecha: Octubre 2025  
+Curso / Universidad: GISI / Escuela Politécnica Superior - Universidad de Alcalá de Henares
 
 ---
