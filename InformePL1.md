@@ -173,8 +173,7 @@ nivel del PIB. El número total de países es de 147.
 <figure>
 <img src="images/TartaPIBGlobal.png"
 alt="Distribución de países por nivel de PIB" />
-<figcaption aria-hidden="true">Distribución de países por nivel de
-PIB</figcaption>
+<figcaption aria-hidden="true"> </figcaption>
 </figure>
 
 En las figuras 2, 3 y 4 se muestran los histogramas y diagramas de caja
