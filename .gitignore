@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*_cache/
+*_files/
+figure/
+images/
+
+*.html
+*.pdf
+*.docx
+
+.DS_Store
+Thumbs.db
