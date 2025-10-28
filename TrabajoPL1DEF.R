@@ -138,6 +138,26 @@ etiquetas.pib=paste(etiquetas.pib, propt)
 etiquetas.pib=paste(etiquetas.pib,"%",sep="")
 pie(ft,labels=etiquetas.pib, col=rainbow(2))
 
+
+###################DIAGRAMA TARTA GGPLOT PRUEBA################
+# install.packages("ggplot2")
+# library(ggplot2)
+# 
+# ggplot(df, aes(x = "", y = porcentaje, fill = etiqueta)) +
+#   geom_bar(stat = "identity", width = 1) +
+#   coord_polar("y", start = 0) +
+#   theme_void() +
+#   labs(title = "Distribución del PIB") +
+#   geom_text(aes(label = paste0(etiqueta, " (", round(porcentaje, 1), "%)")),
+#             position = position_stack(vjust = 0.5)) +
+#   scale_fill_manual(values = c("#66c2a5", "#fc8d62")) +
+#   theme(
+#     plot.title = element_text(hjust = 0.5),
+#     legend.title = element_blank()
+#   )
+###################################################
+
+
 # 2 - Diagramas de tarta de calificaciones
 # 2.1 - Globales
 par(mfrow=c(1,1))
@@ -311,4 +331,5 @@ boxplot_bajopib <- ggplot(emisiones.bajopib.df, aes(x = emisiones.bajopib)) +
 
 # Mostrar ambos gráficos uno debajo del otro
 histograma_bajopib / boxplot_bajopib
+
 
